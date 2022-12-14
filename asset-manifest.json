@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.9879f943.js",
-    "static/js/787.1d0d702d.chunk.js": "/static/js/787.1d0d702d.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.9879f943.js.map": "/static/js/main.9879f943.js.map",
-    "787.1d0d702d.chunk.js.map": "/static/js/787.1d0d702d.chunk.js.map"
+    "main.css": "/chat-widget-test/static/css/main.073c9b0a.css",
+    "main.js": "/chat-widget-test/static/js/main.6d72d976.js",
+    "static/js/787.1d0d702d.chunk.js": "/chat-widget-test/static/js/787.1d0d702d.chunk.js",
+    "static/media/logo.svg": "/chat-widget-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chat-widget-test/index.html",
+    "main.073c9b0a.css.map": "/chat-widget-test/static/css/main.073c9b0a.css.map",
+    "main.6d72d976.js.map": "/chat-widget-test/static/js/main.6d72d976.js.map",
+    "787.1d0d702d.chunk.js.map": "/chat-widget-test/static/js/787.1d0d702d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9879f943.js"
+    "static/js/main.6d72d976.js"
   ]
 }
